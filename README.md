@@ -3,6 +3,6 @@
 
 
 
-  ## Hello
-  ### I am David Kim, junior GIS developer. Interested in learning and exploring more about Python/GIS and Cloud Architecture
+## Hello
+### I am David Kim, junior GIS developer. Interested in learning and exploring more about Python/GIS and Cloud Architecture
 
