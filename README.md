@@ -4,6 +4,6 @@
 
 
 ## Hello
-#### I am David Kim, junior GIS developer.
+#### I am David Kim, student GIS developer.
 ### My Interest
 #### Python, JavaScript, C#, .NET, FME, arcPy, React
